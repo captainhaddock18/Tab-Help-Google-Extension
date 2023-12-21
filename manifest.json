@@ -1,0 +1,13 @@
+{
+    "version": "1.0",
+    "manifest_version": 3,
+    "permissions": [
+        "tabs"
+      ],
+    "name": "THARAK EXT",
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "rename.png"
+    }
+    
+}
