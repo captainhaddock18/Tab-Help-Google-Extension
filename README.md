@@ -46,4 +46,4 @@ Using Tab Help is simple and intuitive:
 
 ## Feedback and Support
 
-We value your feedback! If you encounter any issues, have suggestions for improvement, or need assistance, please don't hesitate to [contact us](mailto:example@example.com). We're here to help!
+We value your feedback! If you encounter any issues, have suggestions for improvement, or need assistance, please don't hesitate to [contact us](mailto:b22es007@iitj.ac.in). We're here to help!
